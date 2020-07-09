@@ -35,7 +35,7 @@ IF '%Q%'=='n' (goto :no)
 end
 
 :yes
-Start %CD%\convert\download.exe
+Start %CD%\convert\download.bat
 end
 
 :no
